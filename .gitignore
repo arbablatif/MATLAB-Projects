@@ -1,0 +1,12 @@
+# Raw car images are not tracked. Put your own dataset in Data_Train/ and Data_Test/.
+**/Data_Train/**
+**/Data_Test/**
+!**/.gitkeep
+# Generated output
+**/Result/
+**/Results/
+**/Result_Test/
+# OS / sync clutter
+desktop.ini
+Thumbs.db
+.DS_Store
